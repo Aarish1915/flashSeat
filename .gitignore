@@ -1,0 +1,17 @@
+ .gitignore
+# Select templates from the left panel to generate your .gitignore
+
+# Example patterns:
+ node_modules/
+ .env
+ dist/
+ *.log
+
+ TypeScript
+*.js
+*.js.map
+*.d.ts
+node_modules/
+dist/
+build/
+.tsbuildinfo
